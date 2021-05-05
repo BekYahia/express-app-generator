@@ -1,7 +1,8 @@
 
 # Express app generator
 
-
+## Documentation
+[Documentation](https://bekyahia.github.io/express-app-generator-with-tests).
 ## API Reference
 
 #### Get all users
